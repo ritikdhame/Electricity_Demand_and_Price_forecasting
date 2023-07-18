@@ -1,4 +1,5 @@
-# Electricity_Demand_and_Price_orecasting
+# Electricity_Demand_and_Price_forecasting
+![image](https://github.com/ritikdhame/Electricity_Demand_and_Price_orecasting/assets/7029092/bbfbbb44-1fc0-406b-81f8-d4d2760b9030)
 
 # Objective: 
 
@@ -25,9 +26,7 @@ The code consists of 4 main parts:
 - Model building and training: This part using PCA to select the features necessary,normalizing target variables and then building forecasting models With XGBoost, GRU, LSTM, CNN, CNN-LSTM,LSTM attention, GRU-XGboost, LSTM attention-XGboost.
 - We plot the train an validation Mean Absolute Error for each case and also compare the scores across the different models towards the end. 
 
-The code requires the following dataset from Kaggle: https://www.kaggle.com/datasets/rakannimer/air-passengers?resource=download
-
-The dataset contains :  Air Passengers per month data.
+![image](https://github.com/ritikdhame/Electricity_Demand_and_Price_orecasting/assets/7029092/08e42691-68ec-4ccd-9bec-5dcc51206844)
 
 ## Requirements
 
